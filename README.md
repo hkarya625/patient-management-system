@@ -41,7 +41,7 @@
 
 ### *Microservices Ecosystem*
 
-![System Architecture](screenshot/architecture.png)
+![System Architecture](project-architecture.png)
 
 </div>
 
